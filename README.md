@@ -6,5 +6,5 @@ Você é um feiticeiro viajante e foi contratado pelo rei para destruir ameaças
 - S   : Atirar um projétil
 - Após pressionar 'S', digite uma direção (1-9) para o projétil
 - Direção '5' realiza um ataque corpo a corpo
-- Teletransportar
+- T   : Teletransportar
 - Após pressionar 'T', digite a distância e uma direção (1-9)

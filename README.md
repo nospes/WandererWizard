@@ -1,4 +1,4 @@
-# WandererWizard
+# Wandering Wizard
 Um jogo feito em em C++ com interface ASCII.
 Você é um feiticeiro viajante e foi contratado pelo rei para destruir ameaças fora do castelo, derrote alguns inimigos e volte vivo para resgatar sua recompensa.  
 
